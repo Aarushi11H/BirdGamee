@@ -1,2 +1,2 @@
 # BirdGamee
-Android Bird Game 
+Android Bird Game in Java using libGDX
